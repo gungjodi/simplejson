@@ -1,64 +1,64 @@
 {
-  authRoles: [
-  {
-    "email": "riza.nansuri@dana.id",
-    "authRole": "admin"
-  },
-  {
-    "email": "officer1@dana.id",
-    "authRole": "officer"
-  },
-  {
-    "email": "aditya.bagus@dana.id",
-    "authRole": "admin"
-  },
-  {
-    "email": "wisnu.wicaksono@dana.id",
-    "authRole": "admin"
-  },
-  {
-    "email": "geuis.puspita@dana.id",
-    "authRole": "admin"
-  },
-  {
-    "email": "hendro.yudistira@dana.id",
-    "authRole": "admin"
-  },
-  {
-    "email": "aldi.reinaldi@dana.id",
-    "authRole": "admin"
-  },
-  {
-    "email": "roby.chandra@dana.id",
-    "authRole": "admin"
-  },
-  {
-    "email": "ignatia.suwarna@dana.id",
-    "authRole": "admin"
-  },
-  {
-    "email": "hazim.zein@dana.id",
-    "authRole": "officer"
-  },
-  {
-    "email": "dimas.nugroho@dana.id",
-    "authRole": "officer"
-  },
-  {
-    "email": "estheria.liana@dana.id",
-    "authRole": "officer"
-  },
-  {
-    "email": "i-putu.krisna@dana.id",
-    "authRole": "officer"
-  },
-  {
-    "email": "vicky.joe@dana.id",
-    "authRole": "officer"
-  },
-  {
-    "email": "cipta.andhika@dana.id",
-    "authRole": "officer"
-  }
-]
+   "authRoles":[
+      {
+         "email":"riza.nansuri@dana.id",
+         "authRole":"admin"
+      },
+      {
+         "email":"officer1@dana.id",
+         "authRole":"officer"
+      },
+      {
+         "email":"aditya.bagus@dana.id",
+         "authRole":"admin"
+      },
+      {
+         "email":"wisnu.wicaksono@dana.id",
+         "authRole":"admin"
+      },
+      {
+         "email":"geuis.puspita@dana.id",
+         "authRole":"admin"
+      },
+      {
+         "email":"hendro.yudistira@dana.id",
+         "authRole":"admin"
+      },
+      {
+         "email":"aldi.reinaldi@dana.id",
+         "authRole":"admin"
+      },
+      {
+         "email":"roby.chandra@dana.id",
+         "authRole":"admin"
+      },
+      {
+         "email":"ignatia.suwarna@dana.id",
+         "authRole":"admin"
+      },
+      {
+         "email":"hazim.zein@dana.id",
+         "authRole":"officer"
+      },
+      {
+         "email":"dimas.nugroho@dana.id",
+         "authRole":"officer"
+      },
+      {
+         "email":"estheria.liana@dana.id",
+         "authRole":"officer"
+      },
+      {
+         "email":"i-putu.krisna@dana.id",
+         "authRole":"officer"
+      },
+      {
+         "email":"vicky.joe@dana.id",
+         "authRole":"officer"
+      },
+      {
+         "email":"cipta.andhika@dana.id",
+         "authRole":"officer"
+      }
+   ]
 }
